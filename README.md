@@ -1,4 +1,4 @@
-# DAT550 Group Project:  Analyze Data Around Netflix shows
+# DAT550 Project:  Analyze Data Around Netflix Shows
 
 ## Introduction:
 
@@ -6,7 +6,7 @@
 In over 190 countries, Netflix members get instant access to every content available. Netflix content will vary by region, and may change over time. The more users watch the contents, the better Netflix succeeds at recommending TV shows and movies they will enjoy watching.<div/>
 
 <br>
-<p align="center"><img src="https://github.com/Ali-HZN/DAT550_Netflix_Project/images/netflix.jpg"/></p>
+<p align="center"><img src="https://github.com/Ali-HZN/DAT550_Netflix_Project/blob/main/images/netflix.jpg"/></p>
 
 
 ### Table of Contents:
@@ -14,6 +14,8 @@ In over 190 countries, Netflix members get instant access to every content avail
 - Exploratory Data Analysis and Visualization on Netflix Dataset
 - Movie Recommendation System
 - Genres Prediction System
+
+<br>
 
 ### References:
 
