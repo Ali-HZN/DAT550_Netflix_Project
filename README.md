@@ -8,6 +8,7 @@ In over 190 countries, Netflix members get instant access to every content avail
 <br>
 <p align="center"><img src="https://github.com/Ali-HZN/DAT550_Netflix_Project/blob/main/images/netflix.jpg"/></p>
 
+<br>
 
 ### Table of Contents:
 
